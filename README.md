@@ -3,7 +3,7 @@
 
 ## 👋 Quem sou eu 👋
 - Olá! Meu nome é João Marcos.
-- Eu sou um engenheiro mecatrônico pela [Universidade Federal de Uberlândia](https://ufu.br/). 
+- Eu sou um engenheiro mecatrônico formado pela [Universidade Federal de Uberlândia](https://ufu.br/). 
 - Atualmente trabalho como desenvolvedor de hardware na [Viacast Soluções](https://viacast.tv/).
 
 ## 👨‍💻 Interesses 👨‍💻 
