@@ -4,7 +4,7 @@
 ## 👋 Quem sou eu 👋
 - Olá! Meu nome é João Marcos 
 - Eu sou um engenheiro mecatrônico pela [Universidade Federal de Uberlândia](https://ufu.br/) 
-- Atualmente trabalho como desenvolvedor de hardware na [Viacast Soluções] (https://viacast.tv/)
+- Atualmente trabalho como desenvolvedor de hardware na [Viacast Soluções](https://viacast.tv/)
 
 ## 👨‍💻 Interesses 👨‍💻
 - Desenvolvimento de sistemas embarcados;
@@ -19,10 +19,10 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Keras]https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white
-![TensorFlow]https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
+![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ## 📱 Contato 📱 
-![LinkedIn]https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-![Telegram]https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
-![WhatsApp]https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
