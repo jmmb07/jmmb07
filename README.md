@@ -4,12 +4,13 @@
 ## 👋 Quem sou eu 👋
 - Olá! Meu nome é João Marcos.
 - Eu sou um engenheiro mecatrônico formado pela [Universidade Federal de Uberlândia](https://ufu.br/). 
-- Atualmente trabalho como analista de desenvolvimento júnior [Fava Sementes](https://www.favasementes.com.br/).
+- Atualmente trabalho como analista de desenvolvimento [Fava Sementes](https://www.favasementes.com.br/).
 
 ## 👨‍💻 Interesses 👨‍💻 
-- Desenvolvimento de sistemas embarcados;
+- Apis;
 - DataScience;
 - PL/SQL;
+- ERPs;
 - Inteligência artificial;
 - Machine Learning;
 
